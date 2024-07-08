@@ -95,7 +95,7 @@
                         href="http://fahmiibrahimdev.tech/">Fahmi Ibrahim</a>
                 </div>
                 <div class="footer-right">
-                    1.0.0
+                    1.0.1
                 </div>
             </footer>
         </div>

@@ -12,7 +12,6 @@ class Example extends Component
     use WithPagination;
     #[Title('Example')]
 
-    protected $paginationTheme = 'bootstrap';
     protected $listeners = [
         'delete'
     ];
