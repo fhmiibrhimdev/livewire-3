@@ -147,6 +147,7 @@
     <!-- Template JS File -->
     <script src="{{ asset('/assets/stisla/js/scripts.js') }}"></script>
     <script src="{{ asset('/assets/stisla/js/custom.js') }}"></script>
+    @stack('scripts')
 </body>
 
 </html>
